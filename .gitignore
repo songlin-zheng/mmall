@@ -28,4 +28,5 @@ target/
 *.tmp
 .DS_Store
 Thumbs.db
-/*zfbinfo.properties
+./src/main/resources/zfbinfo.properties
+

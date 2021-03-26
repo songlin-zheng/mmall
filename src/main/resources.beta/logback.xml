@@ -52,7 +52,7 @@
 
 
 
-    <!-- geelynote mybatis log 日志 -->
+    <!-- slzhengnote mybatis log 日志 -->
 
     <logger name="com.mmall.dao" level="DEBUG"/>
 
